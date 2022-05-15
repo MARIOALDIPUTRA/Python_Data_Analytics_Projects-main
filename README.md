@@ -78,6 +78,6 @@ I'm Mari bross and I have written this tutorial. If you think you can add/correc
 
 If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/93_Python_Data_Analytics_Projects/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
-If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/93_Python_Data_Analytics_Projects).
+
 
 # Python_Data_Analytics_Projects-main
